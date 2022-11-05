@@ -7,7 +7,7 @@ simply download and place the file in the local ~/.nano/ directory for **single 
 ```bash
 # (for current user only)
 # Create the directory in case it doesn't exist
-$ mkdir ~/.nano
+mkdir ~/.nano
 # Download and place file
 wget https://raw.githubusercontent.com/777shuang/nanorc-nim/master/nim.nanorc -O ~/.nano/nim.nanorc
 
