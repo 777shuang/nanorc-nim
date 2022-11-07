@@ -12,7 +12,7 @@ comment "#"
 # Keywords.
 color brightcyan "\<(and|as|assert|async|await|break|class|continue)\>"
 color brightcyan "\<(del|elif|else|except|finally|from)\>"
-color brightcyan "\<(global|if|when|import|is|isnot|lambda|nonlocal|not|or|xor)\>"
+color brightcyan "\<(global|if|when|case|of|import|is|isnot|lambda|nonlocal|not|or|xor)\>"
 color brightcyan "\<(pass|raise|return|try|with|yield|await|discard)\>"
 # Procedures
 color brightcyan "\<(proc [a-zA-Z_0-9]+)\>"
